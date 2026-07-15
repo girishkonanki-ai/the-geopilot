@@ -1,4 +1,4 @@
-The GeoPilot is an AI-powered document digitization platform built for moving companies.
+The GeoPilot is an AI-powered document digitization platform built for moving companies on whatsapp.
 
 Features
 
