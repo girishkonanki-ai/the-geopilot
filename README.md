@@ -1,33 +1,39 @@
-The GeoPilot(www.thegeopilot.com) is an AI-powered document digitization platform built for moving companies on whatsapp.
+The GeoPilot
+AI-powered Packing List Digitisation Platform for Professional Moving Companies
 
-Features
+The GeoPilot is an AI-powered document automation platform that converts handwritten packing lists into professionally formatted digital PDFs through WhatsApp.
 
-• Handwritten Packing List Recognition
+The platform combines OCR, AI document understanding, workflow automation, and cloud services to eliminate manual data entry and significantly reduce document processing time.
 
-• OCR
+-> Key Features:
 
-• AI Layout Understanding
+AI-powered handwriting recognition
+Intelligent document layout reconstruction
+Pixel-perfect PDF generation
+WhatsApp document processing
+Automated cloud workflows
+Error handling and retry logic
+Multi-step AI automation
+Secure document storage
 
-• PDF Generation
 
-• WhatsApp Delivery
+-> Technology Stack:
 
-• Cloud Storage
+Technology	            Purpose
 
-Tech Stack
+n8n	                    Workflow Automation
+Java	                  Backend Processing
+Supabase	              Database
+Vertex AI (Gemini)	    Document Understanding
+OCR	                    Text Extraction
+REST APIs	              Integrations
+WhatsApp Business API	  Customer Interface
 
-n8n
 
-Python
+-> Current Status
 
-Supabase
+✅ Production
 
-Gemini vertext AI
+-> Website
 
-OCR
-
-REST APIs
-
-Status
-
-Production
+https://www.thegeopilot.com
